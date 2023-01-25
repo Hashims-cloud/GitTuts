@@ -1,4 +1,5 @@
 *.log
-/dir/
+/dir
+dir/message1
 
 
